@@ -30,7 +30,7 @@ association rule is <=3. (Results in System.out.4)
 
 
 The other inputs for the program are items.dat and trans.dat which contain a sample
-transaction istance and items list.
+transaction instance and items list.
 
 All the PL/SQL procedures and the views used are in the arm.sql file which should be in the
 current folder that the program is being run in.

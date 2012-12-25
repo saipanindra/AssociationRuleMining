@@ -36,5 +36,5 @@ All the PL/SQL procedures and the views used are in the arm.sql file which shoul
 current folder that the program is being run in.
 
 Do include the ojdbc5.jar in the classpath while you compile and run the program.
-And yes, change the connection string to match your requirements after you search for the below line
+And yes, change the connection string to match your requirements after you search for the below line in arm.java
 Connection con = DriverManager.getConnection("jdbc:oracle:thin:hr/hr@oracle1.cise.ufl.edu:1521:orcl",uname.trim(), pword.trim());
